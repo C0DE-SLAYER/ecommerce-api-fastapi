@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/C0DE-SLAYER/ecommerce-api-fastapi/master/github_assets/logo.png)
+![Logo](https://raw.githubusercontent.com/C0DE-SLAYER/ecommerce-api-fastapi/master/assets/logo.png)
 
 > An e-commerce backend API built using FastAPI, featuring user authentication, product and category management, shopping cart operations, order processing, and payment integration.
 
@@ -20,9 +20,9 @@ fastapi dev main.py
 
 ## Demo
 
-![demo_1](https://raw.githubusercontent.com/C0DE-SLAYER/ecommerce-api-fastapi/master/github_assets/demo_1.png)
-![demo_2](https://raw.githubusercontent.com/C0DE-SLAYER/ecommerce-api-fastapi/master/github_assets/demo_2.png)
-![demo_3](https://raw.githubusercontent.com/C0DE-SLAYER/ecommerce-api-fastapi/master/github_assets/demo_3.png)
+![demo_1](https://raw.githubusercontent.com/C0DE-SLAYER/ecommerce-api-fastapi/master/assets/demo_1.png)
+![demo_2](https://raw.githubusercontent.com/C0DE-SLAYER/ecommerce-api-fastapi/master/assets/demo_2.png)
+![demo_3](https://raw.githubusercontent.com/C0DE-SLAYER/ecommerce-api-fastapi/master/assets/demo_3.png)
 
 ## License
 
